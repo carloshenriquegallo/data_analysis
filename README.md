@@ -1,23 +1,26 @@
-Data Analysis Project – Central American By-products
-Este projeto realiza uma análise exploratória de dados de subprodutos comercializados em países da América Central, com foco em:
+Claro! Aqui está a tradução para o inglês:
 
-Identificação de outliers em volume e valor
+---
 
-Comparação de preços médios entre países
+# 📊 Data Analysis Project – Central American By-products
 
-Efeitos da pandemia sobre os subprodutos (ex: Wipes e Aerosol)
+This project performs an **exploratory data analysis** of by-products traded in **Central American countries**, focusing on:
 
-Tecnologias utilizadas
-Python 3.10+
+- **Identification of outliers** in volume and value  
+- **Comparison of average prices** between countries  
+- **Pandemic effects** on by-products (e.g., Wipes and Aerosol)
 
-Pandas
+## 🧪 Technologies Used
 
-openpyxl (para exportação Excel)
+- Python 3.10+  
+- Pandas  
+- openpyxl (for Excel export)
 
-Estrutura
-Copiar
-Editar
-├── Market Product Analysis.py
-├── DB.xlsx          ← arquivo necessário para rodar o script / base de dados
-├── Market Product Analysis.xlsx
+## 📁 Structure
+
+```
+├── Market Product Analysis.py  
+├── DB.xlsx          ← required file to run the script / database  
+├── Market Product Analysis.xlsx  
 └── README.md
+```
