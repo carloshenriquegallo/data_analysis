@@ -19,6 +19,7 @@ This project performs an **exploratory data analysis** of by-products traded in 
 ## 📁 Structure
 
 ```
+├── evidences    ← screenshots
 ├── Market Product Analysis.py  
 ├── DB.xlsx          ← required file to run the script / database  
 ├── Market Product Analysis.xlsx  
